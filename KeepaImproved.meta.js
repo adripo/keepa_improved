@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Keepa Improved
 // @namespace    https://github.com/adripo
-// @version      0.3.1
+// @version      0.3
 // @author       adripo
 // @description  Improve keepa deals listing
 // @homepage     https://github.com/adripo/keepa_improved
